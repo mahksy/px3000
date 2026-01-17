@@ -19,6 +19,10 @@ After messaging Behringer about a label template and receiving a technical drawi
 The solution was to pull the proper drawing out of the manual PDF file, since PDF is still SVG under the hood.
 Thankfully that worked a charm, and after a few hours and a few failed vinyl plotter attempts, a lot of swearing and drawing, here is the public release for my label template!
 
+<img width="1036" height="815" alt="grafik" src="https://github.com/user-attachments/assets/c874e190-7883-4b47-b4cd-0f5913f954cc" />
+
+
+
 ___
 
 #### Example setup for vinyl plotter cut stickers
